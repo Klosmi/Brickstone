@@ -22,7 +22,6 @@ j,
 "/f_i",
 "/f_j",
 r
->>>>>>> v1.001-beta
 );
 classes = (
 {
@@ -7468,11 +7467,7 @@ unicode = 0068;
 {
 color = 1;
 glyphname = i;
-<<<<<<< HEAD
-lastChange = "2023-10-03 14:31:53 +0000";
-=======
 lastChange = "2023-10-04 13:47:34 +0000";
->>>>>>> v1.001-beta
 layers = (
 {
 components = (
@@ -7507,19 +7502,11 @@ name = idotless;
 },
 {
 name = dotaccentcomb;
-<<<<<<< HEAD
-transform = "{1, 0, 0, 1, 234, 0}";
-}
-);
-layerId = "494556E7-144A-4E25-B9FC-0C21051BD184";
-width = 600;
-=======
 transform = "{1, 0, 0, 1, 175, 0}";
 }
 );
 layerId = "494556E7-144A-4E25-B9FC-0C21051BD184";
 width = 351;
->>>>>>> v1.001-beta
 }
 );
 rightMetricsKey = "auto (9)";
@@ -7528,11 +7515,7 @@ unicode = 0069;
 {
 color = 1;
 glyphname = j;
-<<<<<<< HEAD
-lastChange = "2023-10-03 14:31:53 +0000";
-=======
 lastChange = "2023-10-04 13:52:30 +0000";
->>>>>>> v1.001-beta
 layers = (
 {
 components = (
@@ -7567,7 +7550,6 @@ name = jdotless;
 },
 {
 name = dotaccentcomb;
-
 transform = "{1, 0, 0, 1, 170, 0}";
 }
 );
@@ -9108,6 +9090,7 @@ unicode = 0071;
 {
 color = 5;
 glyphname = r;
+lastChange = "2023-10-04 13:57:55 +0000";
 layers = (
 {
 background = {
@@ -9321,7 +9304,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-
 "287 324 OFFCURVE",
 "314 359 OFFCURVE",
 "342 369 CURVE",
@@ -9336,6 +9318,19 @@ nodes = (
 "245 434 OFFCURVE",
 "219 379 CURVE",
 "275 285 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"276 0 LINE",
+"276 394 LINE",
+"221 534 LINE",
+"50 477 LINE",
+"68 398 OFFCURVE",
+"76 351 OFFCURVE",
+"76 282 CURVE",
+"76 0 LINE"
 );
 }
 );
@@ -14096,11 +14091,7 @@ unicode = 005F;
 {
 color = 1;
 glyphname = quotedbl;
-<<<<<<< HEAD
-lastChange = "2023-10-03 14:31:53 +0000";
-=======
 lastChange = "2023-10-03 15:17:53 +0000";
->>>>>>> v1.001-beta
 layers = (
 {
 components = (
@@ -14119,7 +14110,6 @@ width = 382;
 components = (
 {
 name = quotesingle;
-
 },
 {
 name = quotesingle;
@@ -14314,6 +14304,7 @@ unicode = 005E;
 },
 {
 glyphname = Aacute;
+lastChange = "2023-10-04 13:46:20 +0000";
 layers = (
 {
 components = (
@@ -14359,6 +14350,7 @@ unicode = 00C1;
 },
 {
 glyphname = Acircumflex;
+lastChange = "2023-10-04 13:46:20 +0000";
 layers = (
 {
 components = (
@@ -14404,6 +14396,7 @@ unicode = 00C2;
 },
 {
 glyphname = Adieresis;
+lastChange = "2023-10-04 13:46:20 +0000";
 layers = (
 {
 components = (
@@ -14871,6 +14864,7 @@ unicode = 00C6;
 },
 {
 glyphname = Cacute;
+lastChange = "2023-10-04 13:46:20 +0000";
 layers = (
 {
 components = (
@@ -25704,5 +25698,5 @@ guillemetright = guillemotright;
 UFOFormat = 3;
 };
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 2;
 }
